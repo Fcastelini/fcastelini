@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Felipe Castelini
 
-<!--
-**Fcastelini/fcastelini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Fullstack Developer & Development Coordinator at L2D Saúde Digital**  
+💡 Passionate about healthcare innovation, automation, and meaningful digital experiences.  
+🛠️ I build end-to-end solutions using **JavaScript**, **Python**, **React**, **Node.js**, and **API integrations**.  
+📊 Focused on scalable, data-driven platforms for telemedicine and digital health.  
+🌍 Based in São Paulo, Brazil.
 
-Here are some ideas to get you started:
+## 🧰 Tech Stack & Tools
+- **Frontend**: React, HTML5, CSS3, Tailwind  
+- **Backend**: Node.js, Express, Flask  
+- **Database**: PostgreSQL, SQLite  
+- **Cloud & DevOps**: AWS, GitHub Actions, Docker  
+- **Automation & Others**: Selenium, Google Apps Script, OpenAI API, Turn.io, Twilio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Current Interests
+- Healthtech infrastructure  
+- AI integration in clinical workflows  
+- Scalable automation for patient engagement
+
+## 📫 Contact
+- 📧 felipe.castelini@l2d.com.br  
+- 💼 [LinkedIn](https://www.linkedin.com/in/felipe-castelini/)  
+- 🌐 Portfolio (coming soon)
