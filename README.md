@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/fcastelini/fcastelini/blob/main/assets/banner.png" alt="Banner de Felipe Castelini" />
+</p>
+
 # 👋 Hello there! I'm Felipe Castelini
 
 🚀 **Fullstack Developer & Development Coordinator at L2D Saúde Digital**  
